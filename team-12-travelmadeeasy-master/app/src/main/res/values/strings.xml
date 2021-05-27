@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TravelMadeEasy</string>
+    <string name="text1">Let\'s Travel</string>
+    <string name="text3">Plan a Trip</string>
+    <string name="btntxt">Next ></string>
+    <string name="GetStartedBtn">Let\'s get started</string>
+    <string name="Text">Choose Your Favorite Destinations</string>
+    <string name="btntxt2">Skip</string>
+    <string name="text4">We have the top places around the world.</string>
+    <string name="text5">Browse from our collection of destinations for your trip.</string>
+    <string name="text2">Travelling is easy with us. Find a place to travel and get necessary information about it.</string>
+    <string name="enterUsername">Username</string>
+    <string name="enterPassword">Password</string>
+
+</resources>

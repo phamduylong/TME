@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fi.team12.travelmadeeasy">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TravelMadeEasy">
+        <activity android:name=".FavoriteActivity2"></activity>
+        <activity android:name=".FavoriteActivity" />
+        <activity android:name=".AdventureDestinationsActivity" />
+        <activity android:name=".HistoricDestinationsActivity" />
+        <activity android:name=".ModernDestinationsActivity" />
+        <activity android:name=".HoneymoonDestinationsActivity" />
+        <activity android:name=".FamilyDestinationsActivity" />
+        <activity android:name=".LeisureDestinationsActivity" />
+        <activity android:name=".PurposesActivity2" />
+        <activity android:name=".PurposesActivity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity android:name=".DefaultActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".GuideActivity3" />
+        <activity android:name=".GuideActivity2" />
+        <activity android:name=".GuideActivity1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
